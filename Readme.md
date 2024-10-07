@@ -1,4 +1,4 @@
-# StudyBuddy - Free Course Platform
+# StudyBuddy - Free Courses Platform
 
 Learning Project..
 Currently Under Development.
@@ -8,7 +8,7 @@ StudyBuddy is an interactive web application designed for learners to explore an
 ## Key Features
 
 - **Client-Side Routing**: Utilizes `react-router-dom` for efficient navigation between pages like Home, Courses, and Course Interface.
-- **Course Listings**: Displays a catalog of available courses, each featuring thumbnails and brief descriptions.
+- **Courses Listings**: Displays a catalog of available courses, each featuring thumbnails and brief descriptions.
 - **Video Playback**: Integrated video player for course content, allowing users to watch lessons directly on the platform.
 - **Progress Tracking**: Tracks and updates user progress as they complete lessons.
 - **YouTube API Integration**: Retrieves course data from YouTube playlists using the YouTube Data API.
