@@ -24,8 +24,8 @@ StudyBuddy is an interactive web application designed for learners to explore an
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/react-course-platform.git
-    cd react-course-platform
+    git clone https://github.com/Sangharsh07/StudyBuddy.git
+    cd StudyBuddy
     ```
 
 2. **Install Dependencies**:
