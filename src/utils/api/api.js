@@ -1,7 +1,7 @@
 import axios from 'axios';
-export const fetchPlaylist = async () => {
-  const playlistId = 'PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige';
-  const apiKey = import.meta.env.VITE_YOUTUBE_API_KEY; // Correctly prefixed with VITE_
+
+export const fetchPlaylist = async (playlistId) => {
+  const apiKey = import.meta.env.VITE_YOUTUBE_API_KEY;
   const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=${playlistId}&key=${apiKey}`;
 
   try {

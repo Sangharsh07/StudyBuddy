@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Header() {
   return (
     <header className="flex justify-between items-center py-5 border-b border-gray-200">
-      <h1 className="m-0 text-2xl">StudyBuddy</h1>
+      <img className='w-40 ml-20' src="../Assets/logo.png" alt="logo" />
       <nav>
         <ul className="list-none p-0 flex gap-5">
           <li className="text-lg">
